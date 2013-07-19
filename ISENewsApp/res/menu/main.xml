@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_settings"
+        />
+    
+     <item
+        android:id="@+id/anews"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/anews"
+        />
+         <item
+        android:id="@+id/gnews"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/gnews"
+        />   
+            <item
+        android:id="@+id/faqs"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/faqs"
+        />
+        
+
+</menu>
